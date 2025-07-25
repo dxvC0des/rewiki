@@ -80,9 +80,9 @@ deploymentBranch: 'gh-pages',
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'RefractedSMP Wiki',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Wiki Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -90,7 +90,7 @@ deploymentBranch: 'gh-pages',
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentation',
           },
       
         ],
@@ -139,4 +139,19 @@ deploymentBranch: 'gh-pages',
     }),
 };
 
+module.exports = {
+  // ...
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        docs: {
+          routeBasePath: '/', // Set this value to '/'.
+          // ...
+        },
+      },
+    ],
+  ],
+  // ...
+};
 export default config;
