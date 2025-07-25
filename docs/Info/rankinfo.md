@@ -14,7 +14,7 @@ Below is the listed ranks that you can either apply for or is handed out.
 ### <font color="#FF0000">Redstone Sector</font>
 - People that know how to do redstone and have previous experiences with builds. You can apply and join on your dashboard.
 
-### <font color="#FFFF00">Agricultural Sector</font>
+### <font color="#d4d004">Agricultural Sector</font>
 - People that have a business and run a farm. You can apply and join on your dashboard. **YOU MUST HAVE THE ENTREPRENEURS ROLE IN ORDER TO APPLY**
 
 ### <font color="#003cffff">Builders</font>
