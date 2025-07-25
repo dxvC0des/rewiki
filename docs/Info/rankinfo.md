@@ -11,10 +11,10 @@ Below is the listed ranks that you can either apply for or is handed out.
 ### <font color="#1779c9ff">Staff</font>
 - Staff members that are willing to help moderate and help the community.
 
-### <font color="#ff0000ff">Redstone Sector</font>
+### <font color="#FF0000">Redstone Sector</font>
 - People that know how to do redstone and have previous experiences with builds. You can apply and join on your dashboard.
 
-### <font color="#fffb00ff">Agricultural Sector</font>
+### <font color="#FFFF00">Agricultural Sector</font>
 - People that have a business and run a farm. You can apply and join on your dashboard. **YOU MUST HAVE THE ENTREPRENEURS ROLE IN ORDER TO APPLY**
 
 ### <font color="#003cffff">Builders</font>
@@ -23,6 +23,6 @@ Below is the listed ranks that you can either apply for or is handed out.
 ### <font color="#90EE90">Entrepreneurs</font>
 - People that start and run their own business in the RefractedSMP Community. You can apply and join on your dashboard.
 
-### <font color="#b20cffff">RefractedSMP Members</font>
+### <font color="#008B8B">RefractedSMP Members</font>
 - These are people that got accepted and are members of the RefractedSMP.
 
