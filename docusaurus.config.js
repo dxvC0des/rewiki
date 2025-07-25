@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'RefractedSMP ',
+  title: 'RefractedSMP',
   tagline: 'Bending the light of a new generation of Minecraft SMPs',
   favicon: 'img/favicon.ico',
 
@@ -52,24 +52,7 @@ deploymentBranch: 'gh-pages',
           editUrl:
             'https://github.com/dxvC0des/rewiki',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/dxvC0des/rewiki',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
-        theme: {
-          customCss: './src/css/custom.css',
-        },
+        blog: false
       }),
     ],
   ],
@@ -139,19 +122,4 @@ deploymentBranch: 'gh-pages',
     }),
 };
 
-module.exports = {
-  // ...
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        docs: {
-          routeBasePath: '/', // Set this value to '/'.
-          // ...
-        },
-      },
-    ],
-  ],
-  // ...
-};
 export default config;
