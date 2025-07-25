@@ -50,7 +50,7 @@ deploymentBranch: 'gh-pages',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/dxvC0des/rewiki',
         },
         blog: {
           showReadingTime: true,
@@ -61,7 +61,7 @@ deploymentBranch: 'gh-pages',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/dxvC0des/rewiki',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -92,23 +92,18 @@ deploymentBranch: 'gh-pages',
             position: 'left',
             label: 'Tutorial',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+      
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Contact',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'wiki.support@refractedsmp.net',
+                to: 'mailto:wiki.support@refractedsmp.net',
               },
             ],
           },
@@ -116,16 +111,12 @@ deploymentBranch: 'gh-pages',
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Website',
+                href: 'https://refractedsmp.net',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Dashboard',
+                href: 'https://refractedsmp.net/dashboard',
               },
             ],
           },
@@ -133,17 +124,13 @@ deploymentBranch: 'gh-pages',
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/dxvC0des/rewiki',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} RefractedSMP, Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

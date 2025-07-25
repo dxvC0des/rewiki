@@ -2,9 +2,8 @@
 sidebar_position: 4
 sidebar_label: Ranks
 ---
-Here is all the ranks that you can get!
 # Rank Info
-
+Here is all the ranks that you can get!
 
 ### <font color="#07e2ffff">Owner</font>
 - This person is the owner of the server. This role cannot be given out to anybody.

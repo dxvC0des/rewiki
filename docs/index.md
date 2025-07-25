@@ -6,7 +6,7 @@ sidebar_label: Introduction
 
 # 👋 Welcome!
 
-:::danger[ERRORS]
+:::danger[ERROR]
 
 These information can and may change. If you have any questions contact dxv on discord.
 
