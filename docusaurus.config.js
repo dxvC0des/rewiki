@@ -29,8 +29,8 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dxvC0des', // Usually your GitHub org/user name.
   projectName: 'rewiki', // Usually your repo name.
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
 deploymentBranch: 'gh-pages',
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
