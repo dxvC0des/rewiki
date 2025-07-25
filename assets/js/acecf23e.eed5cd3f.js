@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrewiki=self.webpackChunkrewiki||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/rewiki/blog","blogTitle":"Blog","authorsListPath":"/rewiki/blog/authors"}')}}]);
