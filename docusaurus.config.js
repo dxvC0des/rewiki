@@ -108,7 +108,7 @@ deploymentBranch: 'gh-pages',
             ],
           },
           {
-            title: 'Community',
+            title: 'Information',
             items: [
               {
                 label: 'Website',
@@ -121,7 +121,7 @@ deploymentBranch: 'gh-pages',
             ],
           },
           {
-            title: 'More',
+            title: 'Repository',
             items: [
               {
                 label: 'GitHub',
