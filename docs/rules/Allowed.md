@@ -8,17 +8,18 @@ The list below are the allowed / execptioned mods, duplication of items, etc.
 
 --------------------------------------------------------------------------------------------------
 
-# Modification / Mods
+### Modification / Mods
 - Sodium, Lithium and other performance mods.
 - Just/Roughly enough items/item menu Mods
 - MiniMap Mods (excluding cave-view)
 - Dynamic Lighting
 - Zooming mods
 - Inventory HUD
+- Replay Mod / Flashback
 
 If the mod that you want isn't on there, please join our discord server and talk to an admin.
 
-# Clients
+### Clients
 - Vanilla Client(s) - "Vanilla" Client(s) mean clients downloaded from minecraft.net.
 - Badlion Client
 - Lunar Client
@@ -26,7 +27,7 @@ If the mod that you want isn't on there, please join our discord server and talk
 
 If the client you use isn't on there, please join our discord server and talk to an admin.
 
-# Duplication Exceptions
+### Duplication Exceptions
 
 - String Duplication
 - Carpets
