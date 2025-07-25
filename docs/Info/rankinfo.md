@@ -2,7 +2,7 @@
 sidebar_position: 4
 sidebar_label: Ranks
 ---
-
+Here is all the ranks that you can get!
 # Rank Info
 
 
