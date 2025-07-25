@@ -4,13 +4,14 @@ sidebar_title: intro
 sidebar_label: Introduction
 ---
 
-# 👋 Welcome!
+# 👋 Hello!
 
-:::danger[ERROR]
+:::info
 
 These information can and may change. If you have any questions contact dxv on discord.
 
 :::
+
 
 Welcome to the RefractedSMP! Where we are bending the light of a new generation of Minecraft SMPs. 
 
