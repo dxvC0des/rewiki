@@ -2,6 +2,7 @@
 sidebar_position: 3
 title: Frequently Asked Questions
 ---
+------------------------------------------------------------------------
 ## How do I get custom ranks in the server?
 Check your dashboard or check the ranks tab.
 
