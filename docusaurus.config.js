@@ -67,7 +67,7 @@ deploymentBranch: 'gh-pages',
         title: ' ',
         logo: {
           alt: 'Wiki Logo',
-          src: 'img/refractedsmp-sc.png',
+          src: 'img/RefractedSMP_tiny.png',
         },
         items: [
      //     {
