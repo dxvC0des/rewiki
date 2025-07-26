@@ -15,4 +15,4 @@ These information can and may change. If you have any questions contact dxv on d
 
 Welcome to the RefractedSMP! Where we are bending the light of a new generation of Minecraft SMPs. 
 
-Select a topic on the left to get started. 
+Select a topic to get started!

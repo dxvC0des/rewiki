@@ -20,6 +20,6 @@ Of course, some of these rules are well known but it is **important** you unders
 - Using programs that emulate the user's clicks such as an auto clicker.
 - The use of alternative accounts or alt accounts to evade a ban, warning, or mute is strictly prohibited
 
-- For the allowed list of modifications, duplication tactics, etc. please visit [this link.](https://wiki.refractedsmp.net/Info/allowed)
+- For the allowed list of modifications, duplication tactics, etc. please visit [this link.](https://wiki.refractedsmp.net/rules/allowed)
 
 **❗Failure to comply with the minecraft server rules stated above can and may result in a ban from the servers.**
