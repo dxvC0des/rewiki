@@ -62,9 +62,9 @@ deploymentBranch: 'gh-pages',
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/refractedsmp-sc.png',
+      image: 'img/RefractedSMP_tiny.png',
       navbar: {
-        title: 'RefractedSMP Wiki',
+        title: ' ',
         logo: {
           alt: 'Wiki Logo',
           src: 'img/refractedsmp-sc.png',
