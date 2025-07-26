@@ -19,4 +19,4 @@ After being accepted, please wait a few hours before joining to ensure you being
 To suggest mods, email us on info@refractedsmp.net or join the discord server.
 
 ## My question isnt answered!
-Ping @dxv on our discord server to ask your server.
+Ping @dxv on our discord server to ask your question.
