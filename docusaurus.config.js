@@ -67,15 +67,15 @@ deploymentBranch: 'gh-pages',
         title: 'RefractedSMP Wiki',
         logo: {
           alt: 'Wiki Logo',
-          src: 'img/logo.svg',
+          src: 'img/refractedsmp-sc.png',
         },
         items: [
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Documentation',
-          },
+     //     {
+        //    type: 'docSidebar',
+         //   sidebarId: 'tutorialSidebar',
+          //  position: 'left',
+        // label: 'Documentation',
+         // },
       
         ],
       },
