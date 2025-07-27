@@ -21,5 +21,8 @@ To suggest mods, email us on info@refractedsmp.net or join the discord server.
 ## Is this mod safe to use? or Can i use X?
 First, check out the [allowed list](https://wiki.refractedsmp.net/rules/allowed) and if your mod or X is not listed, contact us on discord!
 
+## Why is fullbright mods / resource packs banned?
+Fullbright mods / resource packs are banned because in technicality, **it provides and unfair advantage over others.** Fullbright allows you to see ores lights up caves automatically without torchs, making users **without** fullbright having a disadvantage. Although it could be useful, it is still banned unfortunately.
+
 ## My question isnt answered!
 Ping @dxv on our discord server to ask your question.
