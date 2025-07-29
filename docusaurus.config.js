@@ -49,8 +49,6 @@ deploymentBranch: 'gh-pages',
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/dxvC0des/rewiki',
           routeBasePath: '/', // Set this value to '/'.
         },
         blog: false
