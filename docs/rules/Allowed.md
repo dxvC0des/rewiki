@@ -16,6 +16,7 @@ The list below are the allowed / execptioned mods, duplication of items, etc.
 - Zooming mods
 - Inventory HUD
 - Replay Mod / Flashback
+- Full Bright
 
 If the mod that you want isn't on there, please join our discord server and talk to an admin.
 
