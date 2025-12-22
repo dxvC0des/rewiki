@@ -8,10 +8,14 @@ These are all of the commands you can do
 
 --------------------------------------------------------------------------------------------------
 
-### TPA
-- /tpa [PLAYER NAME] - TPA's to a player.
-- /tpaccept - Accept's a TPA Request.
-- /tpadeny - Denies a TPA Request.
-- /tpahere [PLAYER NAME] - Sends a TPA Request to that player for them to come to you.
+### Waypoints
+- /wp - Opens the Waypoints GUI
+
+### Other / Additional Commands
+- /ver OR /version - Checks server version
+- /pl OR /plugins - Check currently installed plugins
+- /ping - See your current ping (ms)
+- /endlock status - Show if the end is locked or unlocked.
+
 
 

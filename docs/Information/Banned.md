@@ -8,9 +8,6 @@ The list below are the banned items that are illegal on the RefractedSMP
 
 --------------------------------------------------------------------------------------------------
 
-### Items
-- Totems
-
 ### Modifications / Mods
 - Replay Mod / Flashback **IF USED TO XRAY / FIND BASES**
 - Xray

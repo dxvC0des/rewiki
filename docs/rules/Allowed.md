@@ -31,7 +31,6 @@ If the client you use isn't on there, please join our discord server and talk to
 ### Duplication Exceptions
 
 - String Duplication
-- Carpets
 
 If the duplication method you want isn't on there, please join our discord server and talk to an admin.
 
